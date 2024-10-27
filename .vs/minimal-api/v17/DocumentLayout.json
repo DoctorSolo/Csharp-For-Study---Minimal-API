@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\migue\\Documents\\Documentos\\Programas\\C#\\Estudo da DIO\\minimal-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E01D63DD-AF5D-4F73-8EA5-B28789E60F66}|Test\\Test.csproj|c:\\users\\migue\\documents\\documentos\\programas\\c#\\estudo da dio\\minimal-api\\test\\minimal_api.dump.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{E01D63DD-AF5D-4F73-8EA5-B28789E60F66}|Test\\Test.csproj|solutionrelative:test\\minimal_api.dump.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E01D63DD-AF5D-4F73-8EA5-B28789E60F66}|Test\\Test.csproj|c:\\users\\migue\\documents\\documentos\\programas\\c#\\estudo da dio\\minimal-api\\test\\minimal_api.dump.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{E01D63DD-AF5D-4F73-8EA5-B28789E60F66}|Test\\Test.csproj|solutionrelative:test\\minimal_api.dump.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "minimal_api.dump.sql ",
+              "DocumentMoniker": "C:\\Users\\migue\\Documents\\Documentos\\Programas\\C#\\Estudo da DIO\\minimal-api\\Test\\minimal_api.dump.sql",
+              "RelativeDocumentMoniker": "Test\\minimal_api.dump.sql",
+              "ToolTip": "C:\\Users\\migue\\Documents\\Documentos\\Programas\\C#\\Estudo da DIO\\minimal-api\\Test\\minimal_api.dump.sql",
+              "RelativeToolTip": "Test\\minimal_api.dump.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002897|",
+              "WhenOpened": "2024-10-27T13:32:05.344Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
